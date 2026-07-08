@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "3c262450b12c8715",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6cef93b8e944761",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fedc3fb37cdba4b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "STATISTICS/map.canvas",
+                "viewState": {
+                  "x": 600.5,
+                  "y": 500,
+                  "zoom": -2.486255406713007
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "map"
+            }
+          },
+          {
+            "id": "4bed89c3c2d1afa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OOP/Design Patterns/Structural Patterns/Proxy Pattern.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proxy Pattern"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f439cfef17fcb402",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae1e7cc589a6ff39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b4df7f7d2d5573c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8d55744a114b698a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Пошук"
+            }
+          },
+          {
+            "id": "b067eb8b8dec9376",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c6bdafc89206951a",
+    "type": "split",
+    "children": [
+      {
+        "id": "abf05be826f40546",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "903f5eec8a1041ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Вітаємо.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Зворотні посилання для Вітаємо"
+            }
+          },
+          {
+            "id": "fb4804f829926ee8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Вітаємо.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Вихідні посилання з Вітаємо"
+            }
+          },
+          {
+            "id": "ab8520c6c2fa5195",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Мітки"
+            }
+          },
+          {
+            "id": "772049f6e7ea4358",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Всі властивості"
+            }
+          },
+          {
+            "id": "1a48eae50b4367fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Вітаємо.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Вміст Вітаємо"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "4bed89c3c2d1afa9",
+  "lastOpenFiles": [
+    "git",
+    "OOP/OOP",
+    "OOP/Нова папка",
+    "OOP/Design Patterns/Structural Patterns/Structural Patterns.md",
+    "OOP/Design Patterns/Design Patterns.md",
+    "OOP/Design Patterns/Structural Patterns/Proxy Pattern.md",
+    "OOP/Design Patterns/Structural Patterns/Facade Pattern.md",
+    "OOP/Design Patterns/Structural Patterns/Decorator Pattern.md",
+    "OOP/Design Patterns/Structural Patterns/Composite Pattern.md",
+    "OOP/Design Patterns/Structural Patterns/Adapter Pattern.md",
+    "Structural  Patterns.md",
+    "OOP/Design Patterns/Creational Patterns/Singleton Pattern.md",
+    "OOP/Design Patterns/Creational Patterns/Creational Patterns.md",
+    "OOP/Design Patterns/Creational Patterns/Factory Method Pattern.md",
+    "Creational Pattern.md",
+    "OOP/Design Patterns/Behavioural Patterns/Behavioural Patterns.md",
+    "OOP/Design Patterns/Behavioural Patterns/Template Method Pattern.md",
+    "Behavioural  Patterns.md",
+    "OOP/Design Patterns/Behavioural Patterns/State Pattern.md",
+    "OOP/Design Patterns/Behavioural Patterns/Observer Pattern.md",
+    "OOP/Design Patterns/Behavioural Patterns/Command Pattern.md",
+    "OOP/Design Patterns/Behavioural Patterns/Chain of Responsibility Pattern.md",
+    "Behavioural Patterns..md",
+    "Pasted image 20260707170152.png",
+    "Pasted image 20260707170125.png",
+    "Pasted image 20260707165323.png",
+    "Pasted image 20260707165226.png",
+    "Pasted image 20260707165122.png",
+    "Pasted image 20260707164641.png",
+    "Pasted image 20260707164514.png",
+    "Pasted image 20260707164421.png",
+    "Pasted image 20260707164344.png",
+    "Pasted image 20260707164017.png",
+    "OOP/Design Patterns/Structural Patterns/Untitled",
+    "OOP/Design Patterns/Architectural Patterns & Maintenance/Architectural Patterns & Maintenance.md",
+    "OOP/Design Patterns/Architectural Patterns & Maintenance",
+    "OOP/Design Patterns/Behavioural Patterns",
+    "OOP/Design Patterns/Structural Patterns",
+    "OOP/Design Patterns/Creational Patterns",
+    "OOP/Design Patterns/Foundational Knowledge/Introduction to Design Patterns.md",
+    "OOP/Design Patterns/Foundational Knowledge",
+    "Software Design Principles.md",
+    "OOP/Design Patterns",
+    "OOP/Object-Oriented Modelling/Object-Oriented Modeling.md",
+    "OOP/OOP.md",
+    "OOP/Object-Oriented Modelling/Four Design Principles",
+    "STATISTICS/map.canvas"
+  ]
+}
