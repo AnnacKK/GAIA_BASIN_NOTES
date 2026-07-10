@@ -2,7 +2,11 @@
 * **Category**: [[Behavioural Patterns]].
 * **Intent**: Allows an object to alter its behavior when its internal state changes, making the object appear to change its class dynamically at runtime.
 
-
+---
+links:
+- type: article
+	title: "Command Pattern Deep Dive" 
+	url: "https://refactoring.guru/design-patterns/command"
 
 ---
 
