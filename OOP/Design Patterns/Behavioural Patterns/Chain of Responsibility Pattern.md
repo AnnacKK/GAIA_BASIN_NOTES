@@ -1,4 +1,3 @@
-
 - **Category**: [[Behavioural Patterns]].
 - **Intent**: Avoids coupling the sender of a request to its receiver by giving multiple handler objects a chance to process the request. It links receiving objects together into a single sequential chain and passes the request along until an object handles it dynamically.
 
@@ -158,3 +157,7 @@ public class MailServerApplication {
 - **Enables Dynamic Responsibility Assignment**: The structure provides high runtime flexibility. Developers can dynamically add new filter nodes, remove layers, or reorder the chain at runtime without breaking the underlying application layout.
 
 Tags: [[Design Patterns]] | [[Behavioural Patterns]]
+
+- type: article
+	title: "test2" 
+	url: "test2.com"
