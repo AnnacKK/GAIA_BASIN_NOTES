@@ -47,8 +47,3 @@ public class ExampleSingleton {
 Advantage of this version of a Singleton class is lazy creation . Lazy creation means that the object is not created until it is truly needed. This is helpful, especially if the object is large. As the object is not created until the “ getInstance ” method is called, the program is more efficient.
 
 Tags: [[Design Patterns]] | [[Creational Patterns]]
-
-- type: article
-	title: "test8"
-	url: "test8"
-	author: "AnnacKK"
