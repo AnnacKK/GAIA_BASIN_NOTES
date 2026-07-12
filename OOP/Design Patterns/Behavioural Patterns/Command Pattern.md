@@ -194,3 +194,8 @@ Tags: [[Design Patterns]] | [[Behavioural Patterns]]
 - type: article
 	title: "test" 
 	url: "test.com"
+
+- type: article
+	title: "test4"
+	url: "test4.com"
+	author: "AnnacKK"
