@@ -52,3 +52,8 @@ Tags: [[Design Patterns]] | [[Creational Patterns]]
 	title: "test7"
 	url: "test7.com"
 	author: "AnnacKK"
+
+- type: article
+	title: "test8"
+	url: "test8"
+	author: "AnnacKK"
