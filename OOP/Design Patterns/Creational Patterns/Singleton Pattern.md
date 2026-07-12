@@ -49,11 +49,6 @@ Advantage of this version of a Singleton class is lazy creation . Lazy creation 
 Tags: [[Design Patterns]] | [[Creational Patterns]]
 
 - type: article
-	title: "test7"
-	url: "test7.com"
-	author: "AnnacKK"
-
-- type: article
 	title: "test8"
 	url: "test8"
 	author: "AnnacKK"
