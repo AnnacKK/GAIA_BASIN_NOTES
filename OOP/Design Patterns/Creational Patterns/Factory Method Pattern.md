@@ -17,8 +17,3 @@ Factory Objects (Simple Factory Idiom)
 * ## Key Value By isolating object creation away from application behavior, client code becomes cleaner, highly extensible, and incredibly easy to maintain[cite: 1]. 
 
 Tags: [[Design Patterns]] | [[Creational Patterns]]
-
-- type: article
-	title: "test3"
-	url: "test3.com"
-	author: "AnnacKK"
