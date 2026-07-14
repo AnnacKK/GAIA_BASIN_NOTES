@@ -1,3 +1,3 @@
 [[Four Desing Princeples]]
-this note
+this note is test 
 -type:article
