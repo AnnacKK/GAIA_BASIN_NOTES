@@ -7,3 +7,8 @@ test
 	title: "testartsync"
 	url: "testsync.com"
 	author: "AnnacKK"
+
+- type: courses
+	title: "testartsync"
+	url: "testsync.com"
+	author: "AnnacKK"
