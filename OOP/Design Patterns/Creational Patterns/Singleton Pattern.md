@@ -1,5 +1,3 @@
-
-
 * **Category**: [[Creational Patterns]]. 
 * **Intent**: Restricts a class to **one and only one** instance while ensuring it remains globally accessible throughout the program.
 

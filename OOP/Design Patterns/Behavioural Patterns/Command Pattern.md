@@ -1,4 +1,3 @@
-
 * **Category**:[[Behavioural Patterns]].
 * **Intent**: Encapsulates a request or an action as a standalone object of its own, thereby allowing you to parameterize clients with different requests, queue or log requests, and support undoable operations.
 
@@ -191,3 +190,7 @@ public class ClientApplication {
 * **Pulls Logic Out of User Interfaces**: It isolates core business logic away from direct UI interaction elements (like clickable screen components), ensuring your application workflows remain modular, distinct, and highly reusable.
 
 Tags: [[Design Patterns]] | [[Behavioural Patterns]]
+
+- type: article
+	title: "test" 
+	url: "test.com"
